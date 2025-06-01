@@ -1,1 +1,5 @@
 @import url('https://logseq.catppuccin.com/ctp-latte.css');
+
+.tl-logseq-cp-container-bg {
+  opacity: 0.5 !important;
+}
